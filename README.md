@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-This is my first repository on GitHib
+This is my first repository on GitHub.  The pencil icon opened this code for modification.
